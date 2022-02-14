@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "limits": "c",
+        "type_traits": "c",
+        "common.h": "c",
+        "functional": "c"
+    }
+}
